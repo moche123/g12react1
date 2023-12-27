@@ -1,0 +1,20 @@
+#root {
+ 
+  margin: 0 auto;
+  text-align: center;
+}
+
+.text-red{
+  background-color: red;
+  color: #fff;
+}
+
+.text-blue{
+  background-color: blue;
+  color: #fff;
+}
+
+.text-green{
+  background-color: green;
+  color: #fff;
+}
